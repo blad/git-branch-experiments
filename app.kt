@@ -10,3 +10,9 @@ fun feature1() {
   println("Such ah")
   println("Many feature")
 }
+
+fun feature2() {
+  println("Second is kinda like first")
+  println("2 is the loneliest even prime number")
+  println("Sourdough is delicious")
+}
