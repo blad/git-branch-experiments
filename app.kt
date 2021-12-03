@@ -2,6 +2,7 @@
  * Wonderful and complex app.
  */
 fun main() {
+  println("Patch from release-v1 branch")
   print("Hello World!")
 }
 
