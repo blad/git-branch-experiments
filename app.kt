@@ -7,4 +7,5 @@ fun main() {
 
 fun feature1() {
   println("Much wow")
+  println("Such ah")
 }
